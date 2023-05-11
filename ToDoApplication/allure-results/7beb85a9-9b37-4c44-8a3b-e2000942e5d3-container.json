@@ -1,0 +1,1 @@
+{"uuid":"7beb85a9-9b37-4c44-8a3b-e2000942e5d3","name":"com.QaQart.Base.BaseTest.setUp","children":["5e553174-9304-4d40-ab15-9af63462dc98"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1680141667082,"stop":1680141671164}],"afters":[],"start":1680141667081,"stop":1680141671165}

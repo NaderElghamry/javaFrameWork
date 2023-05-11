@@ -1,0 +1,9 @@
+com\QaQart\Pages\NewToDoPage.class
+com\QaQart\TestCases\ToDoTest.class
+com\QaQart\Base\BasePage.class
+com\QaQart\utils\PropertiesUtils.class
+com\QaQart\Pages\LoginPage.class
+com\QaQart\TestCases\LoginTests.class
+com\QaQart\Pages\TodoPage.class
+com\QaQart\Base\BaseTest.class
+com\QaQart\Factory\DriverFactory.class
